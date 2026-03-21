@@ -10,6 +10,7 @@ export default function App() {
       <Cards />
       <UseCases />
       <Dashboard />
+  
     </div>
   );
 }

@@ -1,7 +1,7 @@
 import Hero from "./components/Hero";
 import Cards from "./components/Cards";
 import { UseCases } from "./components/Cards";
-import Dashboard from "./components/Dashboard";
+import Dashboard from "./components/dashboard/index";
 
 export default function App() {
   return (

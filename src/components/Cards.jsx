@@ -33,4 +33,6 @@ export function UseCases() {
         <div className="card">🏭 Industrial Automation</div>
       </div>
     </div>
-  );}
+  );
+
+}

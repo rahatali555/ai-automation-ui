@@ -55,4 +55,6 @@ export default function Scene() {
       <OrbitControls enableZoom={false} />
     </Canvas>
   );
+
+  
 }
